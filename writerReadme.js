@@ -12,7 +12,7 @@ const idDir = (stream) => {
 };
 
 const createTage = (count, tag) => {
-    return Array(count).fill(tag).join('');
+    return Array(count * 2).fill(tag).join('');
 };
 
 const searchDirectory = (__dirname, deeps) => {
@@ -28,10 +28,10 @@ const searchDirectory = (__dirname, deeps) => {
 
     filelist.forEach((name) => {
         if(!idDir(`${__dirname}/${name}`)) {
-            text += `${createTage(deeps, '    ')}- [${name}](${__dirname}/${name})\n`;
+            text += `${createTage(deeps + 1, ' ')}- [${name}](${__dirname}/${name})\n`;
 
         }else {
-            text += `${createTage(deeps + baseTagCount,'#')} ${name}\n`;
+            text += `${createTage(deeps, ' ')}- ### ${name}\n`;
             searchDirectory(`${__dirname}/${name}`, deeps + 1);
         }
     });
@@ -57,7 +57,7 @@ const writeFile = () => {
 
 const main = () => {
     init();
-    searchDirectory('./', 0);
+    searchDirectory('.', 0);
     writeFile();
 };
 
