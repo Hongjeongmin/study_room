@@ -28,7 +28,7 @@ const searchDirectory = (__dirname, deeps) => {
 
     filelist.forEach((name) => {
         if(!idDir(`${__dirname}/${name}`)) {
-            text += `${createTage(deeps + 1, ' ')}- [${name}](${__dirname}/${name})\n`;
+            text += `${createTage(deeps, ' ')}- [${name}](${__dirname}/${name})\n`;
 
         }else {
             text += `${createTage(deeps, ' ')}- ### ${name}\n`;
