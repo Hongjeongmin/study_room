@@ -9,12 +9,15 @@
     - [programmers_lv2_숫자의표현.cpp](./algorithm/1208/programmers_lv2_숫자의표현.cpp)
     - [programmers_lv2_오픈채팅방.java](./algorithm/1208/programmers_lv2_오픈채팅방.java)
     - [programmers_lv2_최솟값만들기.cpp](./algorithm/1208/programmers_lv2_최솟값만들기.cpp)
+  - ### 1209
+    - [baekjoon_g4_주사위굴리기.java](./algorithm/1209/baekjoon_g4_주사위굴리기.java)
   - [check.md](./algorithm/check.md)
 - ### cs
 - ### server
   - [01.md](./server/01.md)
 - ### spring
   - [스프링_빈_조회.md](./spring/스프링_빈_조회.md)
+  - [웹_애플리케이션과_싱글톤.md](./spring/웹_애플리케이션과_싱글톤.md)
 
 # 저장공간 README.md 업데이트 방법.
 - node 16 LTS 버전을 다운한다.
