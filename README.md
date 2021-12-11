@@ -5,6 +5,7 @@
 ### algorithm
 - [1207](./algorithm/1207/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - [1207](./algorithm/1207/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.java)
+- [1207](./algorithm/1207/README.md)
 
 - [1208](./algorithm/1208/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
 - [1208](./algorithm/1208/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
