@@ -1,26 +1,35 @@
-name: Build README
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Generate README
+
 on:
   push:
-    branches:
-    - main
-    paths-ignore:
-    - README.md
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
 jobs:
   build:
+
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: [3.7]
+
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
       with:
-        # necessary for github-action-til-autoformat-readme
-        fetch-depth: 0
-    - name: Autoformat README
-      uses: cflynn07/github-action-til-autoformat-readme@1.2.0
-      with:
-        description: |
-         리드미 자동 생성 테스트
-        # footer: |
-          # [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-          # [2]: https://github.com/jbranchaud/til
-        list_most_recent: 4 # optional, lists most recent TILS below description
-        date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
+        python-version: ${{ matrix.python-version }}
+    - name: Update README.md
+      run: |
+        python update.py
+    - name: Push the change
+      run: |
+          git config --global user.name 'HanJaeJoon'
+          git config --global user.email 'jaejoon.han@crevisse.com'
+          git commit -am "Automated update of README.md" || true
+          git push
