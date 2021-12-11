@@ -1,34 +1,19 @@
-# TIL
-> Today I Learned
-
-리드미 자동 생성 테스트
-
-
-_7 TILs and counting..._
+# 
+# generate_readme_automatically
 
 ---
+### algorithm
+- [1207](./algorithm/1207/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [1207](./algorithm/1207/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.java)
 
-### 4 most recent TILs
+- [1208](./algorithm/1208/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
+- [1208](./algorithm/1208/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [1208](./algorithm/1208/programmers_lv2_%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84.cpp)
+- [1208](./algorithm/1208/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.kt)
 
-- [웹 애플리케이션과 싱글톤](spring/웹_애플리케이션과_싱글톤.md) - Fri Dec 10 00:55:37 2021 +0900
-- [파일명 : 사이트_난이도_문제이름](algorithm/check.md) - Tue Dec 7 23:36:42 2021 +0900
-- [01](server/01.md) - Tue Dec 7 23:44:47 2021 +0900
-- [bean 조회 테스트 개인공부](spring/스프링_빈_조회.md) - Thu Dec 9 14:45:24 2021 +0900
+- [1209](./algorithm/1209/baekjoon_g4_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
 
-### Categories
+- [1211](./algorithm/1211/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
 
-- [algorithm](#algorithm)
-- [server](#server)
-- [spring](#spring)
-
-### [algorithm](#algorithm)
-- [파일명 : 사이트_난이도_문제이름](algorithm/check.md)
-
-### [server](#server)
-- [01](server/01.md)
-
-### [spring](#spring)
-- [bean 조회 테스트 개인공부](spring/스프링_빈_조회.md)
-- [웹 애플리케이션과 싱글톤](spring/웹_애플리케이션과_싱글톤.md)
-
-
+### [cs](./cs/README.md)
+### [server](./server/01.md)
