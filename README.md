@@ -1,27 +1,18 @@
-# 우리의 스터디 공부일지
-- [a.cpp.txt](./a.cpp.txt)
-- ### algorithm
-  - ### 1207
-    - [programmers_lv2_문자열압축.java](./algorithm/1207/programmers_lv2_문자열압축.java)
-    - [programmers_lv2_최솟값만들기.cpp](./algorithm/1207/programmers_lv2_최솟값만들기.cpp)
-  - ### 1208
-    - [programmers_lv2_문자열압축.kt](./algorithm/1208/programmers_lv2_문자열압축.kt)
-    - [programmers_lv2_숫자의표현.cpp](./algorithm/1208/programmers_lv2_숫자의표현.cpp)
-    - [programmers_lv2_오픈채팅방.java](./algorithm/1208/programmers_lv2_오픈채팅방.java)
-    - [programmers_lv2_최솟값만들기.cpp](./algorithm/1208/programmers_lv2_최솟값만들기.cpp)
-  - ### 1209
-    - [baekjoon_g4_주사위굴리기.java](./algorithm/1209/baekjoon_g4_주사위굴리기.java)
-  - [check.md](./algorithm/check.md)
-- ### cs
-- ### server
-  - [01.md](./server/01.md)
-- ### spring
-  - [스프링_빈_조회.md](./spring/스프링_빈_조회.md)
-  - [웹_애플리케이션과_싱글톤.md](./spring/웹_애플리케이션과_싱글톤.md)
+#
+# generate_readme_automatically
+---
+### [algorithm](./algorithm/check.md)
+- [1207](./algorithm/1207/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [1207](./algorithm/1207/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.java)
 
-# 저장공간 README.md 업데이트 방법.
-- node 16 LTS 버전을 다운한다.
-- npm install 한다.
-- npm start 를 실행한다.
-- 이상 즐겁게 공부하다 :)
-- TODO: 굳이 이짓을 안해도 깃에 푸시만하면... 어떤 서버가 깃을 보고있다가 이걸 한번돌려주는 서버가 있으면 좋겠는데..
+- [1208](./algorithm/1208/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
+- [1208](./algorithm/1208/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [1208](./algorithm/1208/programmers_lv2_%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84.cpp)
+- [1208](./algorithm/1208/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.kt)
+
+- [1209](./algorithm/1209/baekjoon_g4_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
+
+- [1211](./algorithm/1211/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
+
+### [cs](./cs/README.md)
+### [server](./server/01.md)
