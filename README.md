@@ -10,10 +10,10 @@ _6 TILs and counting..._
 
 ### 4 most recent TILs
 
-- [## 알고리즘 목록](algorithm/check.md) - Sun Dec 12 16:28:23 2021 +0900
-- [01](server/01.md) - Sun Dec 12 16:28:23 2021 +0900
-- [bean 조회 테스트 개인공부](spring/스프링_빈_조회.md) - Sun Dec 12 16:28:23 2021 +0900
-- [웹 애플리케이션과 싱글톤](spring/웹_애플리케이션과_싱글톤.md) - Sun Dec 12 16:28:23 2021 +0900
+- [알고리즘 목록](algorithm/check.md) - Sun Dec 12 07:28:57 2021 +0000
+- [01](server/01.md) - Sun Dec 12 07:28:57 2021 +0000
+- [bean 조회 테스트 개인공부](spring/스프링_빈_조회.md) - Sun Dec 12 07:28:57 2021 +0000
+- [웹 애플리케이션과 싱글톤](spring/웹_애플리케이션과_싱글톤.md) - Sun Dec 12 07:28:57 2021 +0000
 
 ### Categories
 
@@ -22,7 +22,7 @@ _6 TILs and counting..._
 - [spring](#spring)
 
 ### [algorithm](#algorithm)
-- [## 알고리즘 목록](algorithm/check.md)
+- [알고리즘 목록](algorithm/check.md)
 
 ### [server](#server)
 - [01](server/01.md)
