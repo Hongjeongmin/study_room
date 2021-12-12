@@ -23,7 +23,14 @@ jobs:
       - name: Update algorithm/check.md
         run: |
           python update.py
-
+      - name: Push the change
+        run: |
+          git config --global user.name 'hwandongjoo'
+          git config --global user.email 'hwandong.joo@gmail.com'
+          git commit -am "자동 업데이트 - 알고리즘 폴더 md 파일" || true
+          git push
+      - name: Check out repo
+        uses: actions/checkout@v2
       - name: Autoformat README
         uses: cflynn07/github-action-til-autoformat-readme@1.2.0
         with:
