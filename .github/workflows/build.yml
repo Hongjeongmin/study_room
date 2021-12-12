@@ -30,7 +30,9 @@ jobs:
           git commit -am "자동 업데이트 - 알고리즘 폴더 md 파일" || true
           git push
       - name: Check out repo
-        uses: actions/checkout@v2
+        run: |
+          git pull
+          git checkout
       - name: Autoformat README
         uses: cflynn07/github-action-til-autoformat-readme@1.2.0
         with:
