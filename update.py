@@ -37,9 +37,9 @@ def main():
             #     directories.append(category)
             continue
 
-        content += "### [{}]({})\n".format(category, parse.quote(os.path.join(root, category)))
+        content += "### [{}]({})\n".format(category, parse.quote(os.path.join(category)))
         for file in files:
-            content += "- [{}]({})\n".format(file, parse.quote(os.path.join(root, file)))
+            content += "- [{}]({})\n".format(file, parse.quote(os.path.join(category, file)))
         content += "\n"
     content += FOOTER
 
