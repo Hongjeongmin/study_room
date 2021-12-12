@@ -23,7 +23,6 @@ jobs:
           git config --global user.name 'hwandongjoo'
           git config --global user.email 'hwandong.joo@gmail.com'
           git commit -am "자동 업데이트 - 알고리즘 폴더 md 파일" || true
-          git push
   build:
     name: Build README.md
     runs-on: ubuntu-latest
