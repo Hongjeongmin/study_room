@@ -14,8 +14,8 @@
 ### [1209](1209)
 - [baekjoon_g4_주사위굴리기.java](1209/baekjoon_g4_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
 
-### [1211](1211)
-- [programmers_lv2_오픈채팅방.kt](1211/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
+### [1212](1212)
+- [programmers_lv2_오픈채팅방.kt](1212/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
 
 
 ## 커밋 규칙
