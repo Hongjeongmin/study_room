@@ -1,21 +1,21 @@
 ## 알고리즘
 
 ---
-### [1207](./algorithm/1207/1207)
-- [programmers_lv2_최솟값만들기.cpp](./algorithm/1207/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
-- [programmers_lv2_문자열압축.java](./algorithm/1207/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.java)
+### [1207](1207)
+- [programmers_lv2_최솟값만들기.cpp](1207/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [programmers_lv2_문자열압축.java](1207/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.java)
 
-### [1208](./algorithm/1208/1208)
-- [programmers_lv2_오픈채팅방.java](./algorithm/1208/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
-- [programmers_lv2_최솟값만들기.cpp](./algorithm/1208/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
-- [programmers_lv2_숫자의표현.cpp](./algorithm/1208/programmers_lv2_%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84.cpp)
-- [programmers_lv2_문자열압축.kt](./algorithm/1208/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.kt)
+### [1208](1208)
+- [programmers_lv2_오픈채팅방.java](1208/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
+- [programmers_lv2_최솟값만들기.cpp](1208/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [programmers_lv2_숫자의표현.cpp](1208/programmers_lv2_%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84.cpp)
+- [programmers_lv2_문자열압축.kt](1208/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.kt)
 
-### [1209](./algorithm/1209/1209)
-- [baekjoon_g4_주사위굴리기.java](./algorithm/1209/baekjoon_g4_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
+### [1209](1209)
+- [baekjoon_g4_주사위굴리기.java](1209/baekjoon_g4_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
 
-### [1211](./algorithm/1211/1211)
-- [programmers_lv2_오픈채팅방.kt](./algorithm/1211/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
+### [1211](1211)
+- [programmers_lv2_오픈채팅방.kt](1211/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
 
 
 ## 커밋 규칙
