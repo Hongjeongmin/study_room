@@ -6,17 +6,36 @@ on:
     paths-ignore:
     - README.md
 jobs:
-  build:
+  build_algorithm:
+    name: Build Algorithm md
     runs-on: ubuntu-latest
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-      with:
-        # necessary for github-action-til-autoformat-readme
-        fetch-depth: 2
-    - name: Autoformat README
-      uses: cflynn07/github-action-til-autoformat-readme@1.2.0
-      with:
+      - uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Update algorithm/check.md
+        run: |
+          python update.py
+      - name: Push the change
+        run: |
+          git config --global user.name 'hwandongjoo'
+          git config --global user.email 'hwandong.joo@gmail.com'
+          git commit -am "자동 업데이트 - 알고리즘 폴더 md 파일" || true
+          git push
+  build_readme:
+    name: Build README.md
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+        with:
+          # necessary for github-action-til-autoformat-readme
+          fetch-depth: 2
+      - name: Autoformat README
+        uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+        with:
         description: |
           스터디룸에 온 걸 환영합니다.
         list_most_recent: 4 # optional, lists most recent TILS below description
