@@ -3,8 +3,7 @@
 import os
 from urllib import parse
 
-HEADER = """ 
-## 알고리즘
+HEADER = """## 알고리즘
 
 ---
 """
