@@ -4,16 +4,16 @@
 스터디룸에 온 걸 환영합니다.
 
 
-_7 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### 4 most recent TILs
 
-- [알고리즘 목록](algorithm/목록.md) - Sun Dec 12 16:27:39 2021 +0900
-- [파일명 : 사이트_난이도_문제이름](algorithm/check.md) - Sat Dec 11 14:41:27 2021 +0000
-- [01](server/01.md) - Sat Dec 11 14:41:27 2021 +0000
-- [bean 조회 테스트 개인공부](spring/스프링_빈_조회.md) - Sat Dec 11 14:41:27 2021 +0000
+- [## 알고리즘 목록](algorithm/check.md) - Sun Dec 12 16:28:23 2021 +0900
+- [01](server/01.md) - Sun Dec 12 16:28:23 2021 +0900
+- [bean 조회 테스트 개인공부](spring/스프링_빈_조회.md) - Sun Dec 12 16:28:23 2021 +0900
+- [웹 애플리케이션과 싱글톤](spring/웹_애플리케이션과_싱글톤.md) - Sun Dec 12 16:28:23 2021 +0900
 
 ### Categories
 
@@ -22,8 +22,7 @@ _7 TILs and counting..._
 - [spring](#spring)
 
 ### [algorithm](#algorithm)
-- [파일명 : 사이트_난이도_문제이름](algorithm/check.md)
-- [알고리즘 목록](algorithm/목록.md)
+- [## 알고리즘 목록](algorithm/check.md)
 
 ### [server](#server)
 - [01](server/01.md)
