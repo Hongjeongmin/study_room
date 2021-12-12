@@ -1,31 +1,31 @@
  
-## ¾Ë°í¸®Áò
+## ì•Œê³ ë¦¬ì¦˜
 
 ---
-### [1207](./algorithm%5C1207%5C1207)
-- [programmers_lv2_¹®ÀÚ¿­¾ĞÃà.java](./algorithm%5C1207%5Cprogrammers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.java)
-- [programmers_lv2_ÃÖ¼Ú°ª¸¸µé±â.cpp](./algorithm%5C1207%5Cprogrammers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+### [1207](./algorithm/1207/1207)
+- [programmers_lv2_ìµœì†Ÿê°’ë§Œë“¤ê¸°.cpp](./algorithm/1207/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [programmers_lv2_ë¬¸ìì—´ì••ì¶•.java](./algorithm/1207/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.java)
 
-### [1208](./algorithm%5C1208%5C1208)
-- [programmers_lv2_¹®ÀÚ¿­¾ĞÃà.kt](./algorithm%5C1208%5Cprogrammers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.kt)
-- [programmers_lv2_¼ıÀÚÀÇÇ¥Çö.cpp](./algorithm%5C1208%5Cprogrammers_lv2_%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84.cpp)
-- [programmers_lv2_¿ÀÇÂÃ¤ÆÃ¹æ.java](./algorithm%5C1208%5Cprogrammers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
-- [programmers_lv2_ÃÖ¼Ú°ª¸¸µé±â.cpp](./algorithm%5C1208%5Cprogrammers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+### [1208](./algorithm/1208/1208)
+- [programmers_lv2_ì˜¤í”ˆì±„íŒ…ë°©.java](./algorithm/1208/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
+- [programmers_lv2_ìµœì†Ÿê°’ë§Œë“¤ê¸°.cpp](./algorithm/1208/programmers_lv2_%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- [programmers_lv2_ìˆ«ìì˜í‘œí˜„.cpp](./algorithm/1208/programmers_lv2_%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84.cpp)
+- [programmers_lv2_ë¬¸ìì—´ì••ì¶•.kt](./algorithm/1208/programmers_lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.kt)
 
-### [1209](./algorithm%5C1209%5C1209)
-- [baekjoon_g4_ÁÖ»çÀ§±¼¸®±â.java](./algorithm%5C1209%5Cbaekjoon_g4_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
+### [1209](./algorithm/1209/1209)
+- [baekjoon_g4_ì£¼ì‚¬ìœ„êµ´ë¦¬ê¸°.java](./algorithm/1209/baekjoon_g4_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java)
 
-### [1211](./algorithm%5C1211%5C1211)
-- [programmers_lv2_¿ÀÇÂÃ¤ÆÃ¹æ.kt](./algorithm%5C1211%5Cprogrammers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
+### [1211](./algorithm/1211/1211)
+- [programmers_lv2_ì˜¤í”ˆì±„íŒ…ë°©.kt](./algorithm/1211/programmers_lv2_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.kt)
 
 
-## Ä¿¹Ô ±ÔÄ¢
+## ì»¤ë°‹ ê·œì¹™
 
 ---
 
-ÆÄÀÏ¸í : »çÀÌÆ®_³­ÀÌµµ_¹®Á¦ÀÌ¸§
+íŒŒì¼ëª… : ì‚¬ì´íŠ¸_ë‚œì´ë„_ë¬¸ì œì´ë¦„
 
-Ä¿¹Ô¸í : ³¯Â¥ | ÀÌ¸§
+ì»¤ë°‹ëª… : ë‚ ì§œ | ì´ë¦„
 
-ÇØ´ç³¯Â¥ ÇØ´ç Æú´õ¿¡ ¿Ã·ÁÁÖ¼¼¿ë
+í•´ë‹¹ë‚ ì§œ í•´ë‹¹ í´ë”ì— ì˜¬ë ¤ì£¼ì„¸ìš©
 
