@@ -4,8 +4,25 @@ on:
     branches:
     - main
     paths-ignore:
-    - README.md
+      - README.md
+      - algorithm/**.md
 jobs:
+  build:
+    name: Build README.md
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+        with:
+          # necessary for github-action-til-autoformat-readme
+          fetch-depth: 2
+      - name: Autoformat README
+        uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+        with:
+          description: |
+            스터디룸에 온 걸 환영합니다.
+          list_most_recent: 4 # optional, lists most recent TILS below description
+          date_format: "2020/01/01" # optional, must align to https://golang.org/pkg/time/#Time.Format
   build_algorithm:
     name: Build Algorithm md
     runs-on: ubuntu-latest
@@ -23,19 +40,4 @@ jobs:
           git config --global user.name 'hwandongjoo'
           git config --global user.email 'hwandong.joo@gmail.com'
           git commit -am "자동 업데이트 - 알고리즘 폴더 md 파일" || true
-  build:
-    name: Build README.md
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-        with:
-          # necessary for github-action-til-autoformat-readme
-          fetch-depth: 2
-      - name: Autoformat README
-        uses: cflynn07/github-action-til-autoformat-readme@1.2.0
-        with:
-          description: |
-            스터디룸에 온 걸 환영합니다.
-          list_most_recent: 4 # optional, lists most recent TILS below description
-          date_format: "2020/01/01" # optional, must align to https://golang.org/pkg/time/#Time.Format
+          git push
