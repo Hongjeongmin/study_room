@@ -22,6 +22,9 @@
 - [programmers_lv1_로또와최고순위와최저순위.kt](1220/programmers_lv1_%EB%A1%9C%EB%98%90%EC%99%80%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.kt)
 - [baekjoon_g5_로봇청소기.java](1220/baekjoon_g5_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.java)
 
+### [1221](1221)
+- [programmers_lv1_숫자문자열과영단어.kt](1221/programmers_lv1_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.kt)
+
 
 ## 커밋 규칙
 
