@@ -25,6 +25,7 @@
 ### [1221](1221)
 - [programmers_lv1_키패드누르기.kt](1221/programmers_lv1_%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.kt)
 - [programmers_lv1_숫자문자열과영단어.kt](1221/programmers_lv1_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.kt)
+- [baekjoon_s1_컨베이어벨트위의로봇.java](1221/baekjoon_s1_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%EB%B2%A8%ED%8A%B8%EC%9C%84%EC%9D%98%EB%A1%9C%EB%B4%87.java)
 
 
 ## 커밋 규칙
