@@ -23,6 +23,7 @@
 - [baekjoon_g5_로봇청소기.java](1220/baekjoon_g5_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.java)
 
 ### [1221](1221)
+- [programmers_lv1_키패드누르기.kt](1221/programmers_lv1_%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.kt)
 - [programmers_lv1_숫자문자열과영단어.kt](1221/programmers_lv1_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.kt)
 
 
