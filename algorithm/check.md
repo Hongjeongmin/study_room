@@ -30,6 +30,9 @@
 ### [1223](1223)
 - [baekjoon_g5_테트로미노.java](1223/baekjoon_g5_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.java)
 
+### [1225](1225)
+- [baekjoon_s1_2xN예쁜타일링.java](1225/baekjoon_s1_2xN%EC%98%88%EC%81%9C%ED%83%80%EC%9D%BC%EB%A7%81.java)
+
 
 ## 커밋 규칙
 
