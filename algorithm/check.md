@@ -37,6 +37,9 @@
 - [baekjoon_g5_평범한배낭.kt](1226/baekjoon_g5_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD.kt)
 - [baekjoon_g2_가운데를말해요.kt](1226/baekjoon_g2_%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%EB%A7%90%ED%95%B4%EC%9A%94.kt)
 
+### [1228](1228)
+- [baekjoon_s1_2xN예쁜타일링.kt](1228/baekjoon_s1_2xN%EC%98%88%EC%81%9C%ED%83%80%EC%9D%BC%EB%A7%81.kt)
+
 
 ## 커밋 규칙
 
