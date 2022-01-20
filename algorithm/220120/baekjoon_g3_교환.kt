@@ -61,7 +61,7 @@ private fun CharArray.swap(i: Int, j: Int): CharArray {
 }
 
 
-data class Pair(
+private data class Pair(
     val num: Int,
     val cnt: Int,
 )
