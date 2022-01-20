@@ -41,6 +41,7 @@
 - [baekjoon_s1_2xN예쁜타일링.kt](1228/baekjoon_s1_2xN%EC%98%88%EC%81%9C%ED%83%80%EC%9D%BC%EB%A7%81.kt)
 
 ### [220120](220120)
+- [baekjoon_g4_행령제곱.kt](220120/baekjoon_g4_%ED%96%89%EB%A0%B9%EC%A0%9C%EA%B3%B1.kt)
 - [baekjoon_g3_교환.kt](220120/baekjoon_g3_%EA%B5%90%ED%99%98.kt)
 
 
